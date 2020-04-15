@@ -6,4 +6,4 @@ module Api
         # mount API::V1::AnotherResource
       end
     end
-  end
+end

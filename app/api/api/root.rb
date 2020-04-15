@@ -3,4 +3,4 @@ module Api
       prefix :api
       mount Api::V1::Root
     end
- end
+end
